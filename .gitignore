@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# React build
+client/dist/
+client/build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
